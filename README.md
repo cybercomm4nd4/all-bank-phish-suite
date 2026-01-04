@@ -1,9 +1,7 @@
 
 ## All Bank Phish Suite - Elite Banking Phishing Suite
 
-<div align="center">
-  <img src="https://i.ibb.co/whKT0DhV/ALL-BANK-SUITE.png" alt="ALL-BANK-SUITE Banner">
-</div>
+<img src="https://i.ibb.co/whKT0DhV/ALL-BANK-SUITE.png" alt="ALL-BANK-SUITE" style="width:100%;max-width:800px;">
 
 ![ALL-BANK-SUITE Banner](https://i.ibb.co/whKT0DhV/ALL-BANK-SUITE.png)
 
