@@ -624,7 +624,7 @@ Julius Bär Suite/
 
 ### Complete File Structure:
 
-📦 PhantomBank_v2.0/
+📦 all-bank-phish-suite
 ├── 📁 USA_Banks/ (45 complete bank suites)
 ├── 📁 Canada_Banks/ (22 complete bank suites)
 ├── 📁 UK_Banks/ (28 complete bank suites)
